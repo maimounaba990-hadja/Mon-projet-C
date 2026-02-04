@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1768094689 source:c:\users\user\desktop\programme sur les tableaux\electionprojet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
